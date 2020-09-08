@@ -14,4 +14,6 @@ python program to learn and use matplotlib library to use plotting.
 
 python script that scrapes a news website using BeautifulSoup and extracts news links, introductory Text, and published time. Save these details in a news.json file
 
+### 5. Job alert from bookmarks
 
+Python Script that scrapes Internshala job listings saved as bookmarks locally and alerts the number of days remaining to apply for the job.
