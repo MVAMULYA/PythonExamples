@@ -17,3 +17,7 @@ python script that scrapes a news website using BeautifulSoup and extracts news 
 ### 5. Job alert from bookmarks
 
 Python Script that scrapes Internshala job listings saved as bookmarks locally and alerts the number of days remaining to apply for the job.
+
+### 6. Tic-tac-toe against computer
+
+Tic tac toe game against computer. To be implemented : code that makes the computer always wins or the game ends in draw 
